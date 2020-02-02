@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/AbdallahAlkhatatbeh/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## welcome to learning-journal
+**This is bold text**
+1. Go to Markdown on GitHub
+   - then Styling text
+     - use **  the text **
+     
+   ### To format code or text into its own distinct block, use triple backticks.
+   
+     Some basic Git commands are:
+```
+git status
+git add
+git commit
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### You can create an inline link by wrapping link text in brackets [ ],
+### and then wrapping the URL in parentheses ( )
+can you go to Markdown on GitHub at [GitHub Help](help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#headings/).
 
-### Jekyll Themes
+#### To create a heading, add one to six # symbols before your heading text.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AbdallahAlkhatatbeh/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+#### The number of # you use will determine the size of the heading.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# The largest heading
+##### ( #The largest heading)
+
+
+
+# Task lists
+###To create a task list, preface list items with a regular space character followed by [ ].
+
+
+###To mark a task as complete, use [x].
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
