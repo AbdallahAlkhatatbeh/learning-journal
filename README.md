@@ -1,3 +1,4 @@
+# Abdallah Alkhatatbeh
 ## welcome to learning-journal
 **This is bold text**
 1. Go to Markdown on GitHub
@@ -37,3 +38,8 @@ can you go to Markdown on GitHub at [GitHub Help](help.github.com/en/github/writ
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+
+
+
+
+my github account [Abdallah Alkhatatbeh](https://github.com/AbdallahAlkhatatbeh).
